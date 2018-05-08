@@ -21,4 +21,4 @@
 
 10. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) 
 
-
+11. [Introduction to Logic](http://intrologic.stanford.edu/notes/notes.html)
