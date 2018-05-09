@@ -5,7 +5,7 @@
 
 2. [CS224n: Natural Language Processing with Deep Learning](http://web.stanford.edu/class/cs224n/)
 
-3. [Math 113 ](http://web.stanford.edu/~mkemeny/math113.html)
+3. [Math 113](http://web.stanford.edu/~mkemeny/math113.html)
 
 4. [CS229: Machine Learning](http://cs229.stanford.edu/)
 
@@ -22,3 +22,5 @@
 10. [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/) 
 
 11. [Introduction to Logic](http://intrologic.stanford.edu/notes/notes.html)
+
+12. [Math 51](http://web.stanford.edu/class/math51/)
